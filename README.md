@@ -1,6 +1,6 @@
 # PCKV
 
-This is the MATLAB code of our work [PCKV](https://www.usenix.org/system/files/sec20-gu.pdf) which was publushed in USENIX Security 20'
+This is a sample code (in MATLAB) of our work [PCKV](https://www.usenix.org/system/files/sec20-gu.pdf) which was publushed in USENIX Security 20'
 
 
 When using this code:
