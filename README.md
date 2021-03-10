@@ -1,4 +1,4 @@
-# Private Correlated Key-Value (PCKV)
+# PCKV
 
 
 Data collection under local differential privacy (LDP) has been mostly studied for homogeneous data. Real-world applications often involve a mixture of different data types suchas key-value pairs, where the frequency of keys and mean of values under each key must be estimated simultaneously. For key-value data collection with LDP, it is challenging to achieve a good utility-privacy tradeoff since the data contains two dimensions and a user may possess multiple key-value pairs. There is also an inherent correlation between key and values which if not harnessed, will lead to poor utility. To address this issue, we propose a **Locally Differentially Private Correlated Key-Value (PCKV)** data collection framework that utilizes correlated perturbations to enhance utility. 
