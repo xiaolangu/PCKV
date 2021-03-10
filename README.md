@@ -1,4 +1,4 @@
-# PCKV
+# PCKV: Locally Differentially Private Correlated Key-Value Data Collection with Optimized Utility
 
 This is a sample code (in MATLAB) of our work [PCKV](https://www.usenix.org/system/files/sec20-gu.pdf) [USENIX Security' 20]
 
